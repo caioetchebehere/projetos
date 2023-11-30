@@ -1,2 +1,2 @@
-# projetos
+# Projetos
 Projetos pessoais e de cursos 
